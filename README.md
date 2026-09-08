@@ -3,7 +3,8 @@
 $\color{cyan}{\text{WELCOME To My repo}}$
 
 This distro is a Study project based on $\color{orange}{\text{Ubuntu noble}}$ 
-This project is open-source if you want to Edit it
+This project is open-source if you want to Edit it.
+
 Thanks Canonical for Making ubuntu Open-source
 
 Download link:
