@@ -1,8 +1,8 @@
 <img src="Logo.png" alt="Descriptive Alt Text" width="400">
 
+$\color{cyan}{\text{WELCOME To My repo}}$
 
-This Repo is for BLAZEOS
-This distro is a Study project based on $\color{green}{\text{Linux Mint Xena}}$ that is also based on $\color{orange}{\text{Ubuntu noble}}$ 
+This distro is a Study project based on $\color{orange}{\text{Ubuntu noble}}$ 
 This project is open-source if you want to Edit it
 Thanks Canonical for Making ubuntu Open-source
 
