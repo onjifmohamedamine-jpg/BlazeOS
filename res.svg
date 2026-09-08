@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 200" width="700" height="200" style="clip-path: polygon(32% 3%, 82% 3%, 82% 53%, 32% 53%);">
+  <defs>
+    <!-- Orange diamond gradient (peak original) -->
+    <linearGradient id="diamondGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F6A623"/>
+      <stop offset="40%" stop-color="#E95420"/>
+      <stop offset="100%" stop-color="#C73500"/>
+    </linearGradient>
+    <!-- Shine glare -->
+    <linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Diamond icon (scaled and positioned on the left) -->
+  <g transform="translate(30, 15) scale(0.48)">
+    <!-- Main diamond -->
+    <path d="M 170,80 L 230,80 L 350,200 L 200,350 L 50,200 Z" fill="url(#diamondGrad)" stroke="#A82800" stroke-width="2"/>
+
+    <!-- Left facet -->
+    <polygon points="170,80 200,200 50,200" fill="#FFB347" opacity="0.45"/>
+    
+    <!-- Right facet -->
+    <polygon points="230,80 350,200 200,200" fill="#A82800" opacity="0.35"/>
+
+    <!-- Diagonal shine -->
+    <polygon points="170,80 270,200 170,320 70,200" fill="url(#shineGrad)"/>
+
+    <!-- Sparkles -->
+    <polygon points="140,140 160,140 150,120" fill="#FFFFFF" opacity="0.95"/>
+    <polygon points="260,240 280,240 270,220" fill="#FFFFFF" opacity="0.7"/>
+    <polygon points="310,170 320,180 330,170 320,160" fill="#FFFFFF" opacity="0.85"/>
+  </g>
+
+  <!-- Typography beside the diamond -->
+  <g transform="translate(230, 100)">
+    <!-- Main name -->
+    <text x="0" y="0" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="900" fill="#E95420" letter-spacing="6">
+      BLAZEOS
+    </text>
+    <!-- Subtitle -->
+    <text x="0" y="30" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#BB7A5A" letter-spacing="4">
+      UBUNTU-BASED
+    </text>
+  </g>
+</svg>
