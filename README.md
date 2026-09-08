@@ -12,4 +12,6 @@ https://mega.nz/fm/ujxThRAL
 
 Please Enjoy your experience, enable Dark node for the best experience possible!
 
+If you want to support me please share your experience with friends! Thank you!
+
 
