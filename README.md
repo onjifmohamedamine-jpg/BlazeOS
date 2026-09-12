@@ -8,7 +8,7 @@ This project is open-source if you want to Edit it.
 Thanks Canonical for Making ubuntu Open-source
 
 Download link:
-https://mega.nz/file/ar5jGKBJ#9U1Mdy_do5d3LKM2Iqr3g7FFQs6nxvXeDOCWT4XF_eY
+https://blazeoslinux.netlify.app
 
 Please Enjoy your experience, enable Dark node for the best experience possible!
 
