@@ -8,10 +8,12 @@ This project is open-source if you want to Edit it.
 Thanks Canonical for Making ubuntu Open-source
 
 Download link:
-https://blazeoslinux.netlify.app
+https://solariaos.netlify.app
 
 Please Enjoy your experience, enable Dark node for the best experience possible!
 
 If you want to support me please share your experience with friends! Thank you!
+
+
 
 
